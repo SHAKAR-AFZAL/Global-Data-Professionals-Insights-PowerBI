@@ -16,7 +16,7 @@ The goal is to transform raw survey data into meaningful business intelligence t
 
 - Analyze salary distribution across different data roles  
 - Identify most popular programming languages  
-- Measure work-life balance and salary satisfaction  
+- Measure work life balance and salary satisfaction  
 - Understand geographic distribution of survey participants  
 - Evaluate difficulty of breaking into the data field  
 
@@ -27,13 +27,13 @@ The goal is to transform raw survey data into meaningful business intelligence t
 - **Source:** Data Professionals Survey  
 - **Records:** 630 survey responses  
 - **Key Fields:**
-  - Job Title  
-  - Country  
-  - Average Salary  
-  - Favorite Programming Language  
-  - Work-Life Balance Rating  
-  - Salary Satisfaction  
-  - Difficulty to Enter Data Field  
+- Job Title  
+ - Country  
+ - Average Salary  
+ - Favorite Programming Language  
+ - Work-Life Balance Rating  
+ - Salary Satisfaction  
+ - Difficulty to Enter Data Field  
 
 ---
 
