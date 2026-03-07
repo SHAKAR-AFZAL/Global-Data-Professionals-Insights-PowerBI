@@ -52,7 +52,7 @@ The goal is to transform raw survey data into the meaningful business intelligen
 - Majority of survey takers are from the **United States**
 - India and other countries also show notable participation
 
-### 💰 Salary Insights by Role
+### Salary Insights by Role
 - **Data Scientists** earn the highest average salary  
 - Followed by **Data Engineers** and **Data Architects**  
 - Students and entry-level roles show lower salary ranges  
