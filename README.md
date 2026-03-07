@@ -48,7 +48,7 @@ The goal is to transform raw survey data into the meaningful business intelligen
 
 ## 📊 Dashboard Highlights
 
-### 🌍 Geographic Distribution
+### Geographic Distribution
 - Majority of survey takers are from the **United States**
 - India and other countries also show notable participation
 
