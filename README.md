@@ -27,7 +27,7 @@ The goal is to transform raw survey data into the meaningful business intelligen
 - **Source:** Data Professionals Survey  
 - **Records:** 630 survey responses  
 - **Key Fields:**
-- Job Title  
+- Job Titles  
  - Country  
  - Average Salary  
  - Favorite Programming Language  
