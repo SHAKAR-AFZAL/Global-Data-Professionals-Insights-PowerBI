@@ -6,7 +6,7 @@ _A comprehensive Power BI dashboard analyzing global data professionals salaries
 
 ##  Overview
 
-This project presents an interactive Power BI dashboard built on a survey of data professionals worldwide. The dashboard explores salary trends, job roles, programming preferences, and satisfaction levels to provide a clear picture of the current data job market.
+This project presents an interactive Power BI dashboard built on a survey of data professionals worldwide.The dashboard explores salary trends, job roles, programming preferences, and satisfaction levels to provide a clear picture of the current data job market.
 
 The goal is to transform raw survey data into the meaningful business intelligence that can help students, professionals, and recruiters understand industry trends.
 
