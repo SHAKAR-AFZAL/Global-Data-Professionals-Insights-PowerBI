@@ -58,7 +58,7 @@ The goal is to transform raw survey data into the meaningful business intelligen
 - Followed by **Data Engineers** and **Data Architects**  
 - Students and entry-level roles show lower salary ranges  
 
-### 💻 Favorite Programming Languages
+###  Favorite Programming Languages
 - **Python** dominates as the most preferred language  
 - R and other languages have significantly lower usage  
 - Java and C/C++ show minimal preference in data roles  
