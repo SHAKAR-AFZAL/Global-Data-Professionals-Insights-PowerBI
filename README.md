@@ -92,7 +92,7 @@ The goal is to transform raw survey data into the meaningful business intelligen
 
 ---
 
-##  Future Enhancements
+## Future Enhancements
 
 - Add time series salary trends  
 - Include experience-level analysis  
