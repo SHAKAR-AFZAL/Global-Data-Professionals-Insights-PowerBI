@@ -38,7 +38,7 @@ The goal is to transform raw survey data into the meaningful business intelligen
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 
 - **Power BI**  Dashboard development  
 - **Power Query**  Data cleaning & transformation  
