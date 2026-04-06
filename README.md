@@ -1,4 +1,4 @@
-# 📊 Data Professional Survey Breakdown Using Power BI
+# Data Professional Survey Breakdown Using Power BI
 
 _A comprehensive Power BI dashboard analyzing global data professionals salaries, job roles, skills, and career satisfaction to uncover actionable insights for data-driven decision making._
 
