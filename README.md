@@ -42,7 +42,7 @@ The goal is to transform raw survey data into the meaningful business intelligen
 
 - **Power BI**  Dashboard development  
 - **Power Query**  Data cleaning & transformation  
-- **DAX**  Calculated measures  
+- **DAX** Calculated measures  
 - **Excel/CSV**  Data source  
 
 ---
