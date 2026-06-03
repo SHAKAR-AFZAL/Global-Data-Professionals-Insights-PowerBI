@@ -14,7 +14,7 @@ The goal is to transform raw survey data into the meaningful business intelligen
 
 ##  Project Objectives
 
-- Analyze the salary distribution across different data roles  
+- Analyze the salary distribution across the different data roles  
 - Identify the most popular programming languages  
 - Measure work life balance and salary satisfaction  
 - Understand geographic distribution of survey participants  
