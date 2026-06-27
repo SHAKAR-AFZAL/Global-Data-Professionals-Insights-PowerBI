@@ -77,7 +77,7 @@ The goal is to transform raw survey data into the meaningful business intelligen
 
 ---
 
-## 📷 Dashboard Preview
+## Dashboard Preview
 <a href="https://github.com/SHAKAR-AFZAL/Global-Data-Professionals-Insights-PowerBI/blob/main/Dashboard%20Picture.png">📊 Dashboard Picture</a>
 
 <img width="1414" height="800" alt="Dashboard Picture" src="https://github.com/user-attachments/assets/f7e635c8-87eb-4eee-a938-e62a9ad156d4" />
