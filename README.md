@@ -67,7 +67,7 @@ The goal is to transform raw survey data into the meaningful business intelligen
 - Average rating: **5.74 / 10**  
 - Indicates moderate satisfaction among professionals  
 
-### 😊 Salary Satisfaction
+### Salary Satisfaction
 - Average rating: **4.27 / 10**  
 - Suggests many professionals feel underpaid  
 
