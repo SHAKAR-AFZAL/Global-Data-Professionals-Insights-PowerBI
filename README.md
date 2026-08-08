@@ -95,7 +95,7 @@ The goal is to transform raw survey data into the meaningful business intelligen
 ## Future Enhancements
 
 - Add the time series salary trends  
-- Include the experience-level analysis  
+- Include the experience level analysis  
 - Build predictive salary model  
 - Deploy dashboard to Power BI Service  
 - Add interactive filters for deeper exploration  
