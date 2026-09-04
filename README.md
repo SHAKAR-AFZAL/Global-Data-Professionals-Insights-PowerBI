@@ -84,7 +84,7 @@ The goal is to transform raw survey data into the meaningful business intelligen
 
 ##  Key Business Insights
 
-- Python remains the **must-have skill** for data careers  
+- Python remains the **must have skill** for data careers  
 - High salary roles correlate strongly with the specialized positions  
 - Entry into the data field is perceived as **challenging**  
 - Work life balance is acceptable but the salary satisfaction is relatively low  
