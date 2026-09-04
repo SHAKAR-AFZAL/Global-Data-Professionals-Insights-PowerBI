@@ -88,7 +88,7 @@ The goal is to transform raw survey data into the meaningful business intelligen
 - High salary roles correlate strongly with the specialized positions  
 - Entry into the data field is perceived as **challenging**  
 - Work life balance is acceptable but the salary satisfaction is relatively low  
-- The United States dominates the data professional landscape  
+- The United States dominates data professional landscape  
 
 ---
 
